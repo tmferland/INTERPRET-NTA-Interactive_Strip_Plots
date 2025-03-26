@@ -34,3 +34,13 @@ Clicking the "+" and "-" buttons on the left side of the plot will toggle betwee
 Sorting by chemical name or by median log(RF) (default) can be toggled by clicking the button in the top left.
 
 ![Toggle sorting options](./resources/sorting.gif)
+
+## Licensing
+
+### Code
+
+The code in this repository is licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](./LICENSE_CODE).
+
+### Data
+
+The dataset used in this project is licensed under a custom proprietary license. Please refer to the [data license file](./LICENSE_DATA) for more details.
